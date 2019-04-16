@@ -1,0 +1,23 @@
+{
+  "name": "shipit",
+  "version": "1.0.0",
+  "description": "My beloved Discord bot for Open Haven.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saricden/shipit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saricden/shipit/issues"
+  },
+  "homepage": "https://github.com/saricden/shipit#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "dotenv": "^7.0.0"
+  }
+}
